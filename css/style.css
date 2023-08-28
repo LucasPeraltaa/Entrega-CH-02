@@ -16,3 +16,7 @@
 .contenedor-formasdepago .card-body{
     text-align: center;
 }
+
+.color-footer{
+    background-color: rgb(243, 196, 196) !important; 
+}
