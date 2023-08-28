@@ -1,11 +1,13 @@
 .bg-nav{
     background-color: rgb(243, 196, 196) !important; 
 }
-
+.nav-link:hover{
+    background-color: rgb(207, 137, 137) !important;
+    border-radius: 5px;
+}
 .contenedor-carousel{
     margin: 30px 70px;
 }
-
 .contenedor-formasdepago{
     margin: 70px;
 }
@@ -16,7 +18,12 @@
 .contenedor-formasdepago .card-body{
     text-align: center;
 }
-
 .color-footer{
     background-color: rgb(243, 196, 196) !important; 
+}
+.btn-color{
+    background-color: rgb(207, 137, 137) !important;
+}
+.card-body:hover{
+    background-color: pink;
 }
