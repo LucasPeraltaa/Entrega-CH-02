@@ -27,3 +27,8 @@
 .card-body:hover{
     background-color: pink;
 }
+
+.card{
+    max-width: 1020px;
+}
+
