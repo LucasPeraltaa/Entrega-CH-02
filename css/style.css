@@ -1,3 +1,5 @@
+/*NAV*/
+
 .bg-nav{
     background-color: rgb(243, 196, 196) !important; 
 }
@@ -5,9 +7,15 @@
     background-color: rgb(207, 137, 137) !important;
     border-radius: 5px;
 }
+
+/*CAROUSEL*/
+
 .contenedor-carousel{
     margin: 30px 70px;
 }
+
+/*FORMAS DE PAGO*/
+
 .contenedor-formasdepago{
     margin: 70px;
 }
@@ -18,17 +26,37 @@
 .contenedor-formasdepago .card-body{
     text-align: center;
 }
+
+/*FOOTER*/
+
 .color-footer{
-    background-color: rgb(243, 196, 196) !important; 
+    background-color: rgb(243, 196, 196) !important;
 }
 .btn-color{
     background-color: rgb(207, 137, 137) !important;
 }
-.card-body:hover{
-    background-color: pink;
-}
 
+/*BAGS*/
+.col-md-8:hover{
+    background-color: pink !important; /*HOVER COLUMNA BAGS*/
+}
 .card{
-    max-width: 1020px;
+    max-width: 1070px;
 }
-
+.card-bags{
+    text-align: center;
+}
+.card-productos{
+    margin: 50px 50px 50px 80px;
+}
+.btn-comprar{
+    background-color: green !important;
+}
+.btn-añadir{
+    background-color: cadetblue !important;
+}
+.btn{
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+    font-style: oblique;
+    font-size: medium bold !important;
+}
